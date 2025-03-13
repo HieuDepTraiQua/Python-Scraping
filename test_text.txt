@@ -1,0 +1,18 @@
+"<div class=\"podcast-left\">
+ <article class=\"item-news\">
+   <div class=\"thumb-art\">
+      <a class=\"thumb thumb-1x1\" data-itm-added=\"1\" data-itm-source=\"#vn_source=Home&amp;vn_campaign=Box-Podcasts&amp;vn_medium=Item-1&amp;vn_term=Desktop&amp;vn_thumb=1\" href=\"https://vnexpress.net/vu-an-be-tac-19-nam-duoc-pha-nho-ai-4859572.html\" title=\"Vụ án bế tắc 19 năm được phá nhờ AI\">
+         <picture>
+              <img alt=\"Vụ án bế tắc 19 năm được phá nhờ AI\" class=\"lazy lazied\" data-ll-status=\"loaded\" data-src=\"https://i1-vnexpress.vnecdn.net/2025/03/11/vu-an-be-tac-19-nam-duoc-pha-nho-ai-1741664398.jpg?w=160&amp;h=160&amp;q=100&amp;dpr=2&amp;fit=crop&amp;s=J7HaZRUkjfPH0DcH1Me3aA\" loading=\"lazy\" src=\"https://i1-vnexpress.vnecdn.net/2025/03/11/vu-an-be-tac-19-nam-duoc-pha-nho-ai-1741664398.jpg?w=160&amp;h=160&amp;q=100&amp;dpr=2&amp;fit=crop&amp;s=J7HaZRUkjfPH0DcH1Me3aA\"/>  
+                </picture>
+                    <span class=\"icon_thumb_videophoto\">
+                         <svg class=\"ic ic-headset\">
+                               <use xlink:href=\"#Headset\">
+                                     </use>
+                                         </svg>
+                                             </span>
+                                                </a>
+                                                  </div>
+                                                    <h3 class=\"title-news\" style=\"padding-top: 0;\">
+                                                       <a data-itm-added=\"1\" data-itm-source=\"#vn_source=Home&amp;vn_campaign=Box-Podcasts&amp;vn_medium=Item-1&amp;vn_term=Desktop&amp;vn_thumb=1\" href=\"https://vnexpress.net/vu-an-be-tac-19-nam-duoc-pha-nho-ai-4859572.html\" title=\"Vụ án bế tắc 19 năm được phá nhờ AI\">
+                                                           Vụ án bế tắc 19 năm được phá nhờ AI<br>   </a><br>  </h3><br>  <p class=\"description\"><br>   <a data-itm-added=\"1\" data-itm-source=\"#vn_source=Home&amp;vn_campaign=Box-Podcasts&amp;vn_medium=Item-1&amp;vn_term=Desktop&amp;vn_thumb=1\" href=\"https://vnexpress.net/vu-an-be-tac-19-nam-duoc-pha-nho-ai-4859572.html\" title=\"Vụ án bế tắc 19 năm được phá nhờ AI\"><br>    Hai tên sát nhân của một vụ thảm án đã bị bắt khi cảnh sát Ấn Độ dùng AI dự đoán khuôn mặt của chúng sau 19 năm lẩn trốn.<br>   </a><br>   <span class=\"meta-news\"><br>    <a class=\"count_cmt\" href=\"https://vnexpress.net/vu-an-be-tac-19-nam-duoc-pha-nho-ai-4859572.html#box_comment_vne\" style=\"white-space: nowrap; display: none;\"><br>     <svg class=\"ic ic-comment\"><br>      <use xlink:href=\"#Comment-Reg\"><br>      </use><br>     </svg><br>     <span class=\"font_icon widget-comment-4859572-9\"><br>      1<br>     </span><br>    </a><br>   </span><br>  </p><br> </article><br></div><br>"

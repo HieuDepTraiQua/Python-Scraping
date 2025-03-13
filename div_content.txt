@@ -1,0 +1,41 @@
+<div class="horizontalPost version-news mb-20 sm:lineSeparates">
+    <div class="horizontalPost__avt avt-140">
+        <a href="/hien-trang-duong-ven-ho-tay-truoc-loat-du-an-cai-tao-nang-cap-2379572.html" data-utm-source="#vnn_source=trangchu&amp;vnn_medium=moinong9" title="Hiện trạng đường ven hồ Tây trước loạt dự án cải tạo, nâng cấp">
+            
+<picture>
+    <!--[if IE 9]><video style="display: none;"><![endif]-->
+    <source data-srcset="https://static-images.vnncdn.net/vps_images_publish/000001/000003/2025/3/11/hien-trang-duong-ven-ho-tay-truoc-loat-du-an-cai-tao-nang-cap-120480.jpg?width=260&amp;s=gtLnPHajRhSiHzlOL47rgw" media="(max-width: 767px)" srcset="https://static-images.vnncdn.net/vps_images_publish/000001/000003/2025/3/11/hien-trang-duong-ven-ho-tay-truoc-loat-du-an-cai-tao-nang-cap-120480.jpg?width=260&amp;s=gtLnPHajRhSiHzlOL47rgw">
+    <source data-srcset="https://static-images.vnncdn.net/vps_images_publish/000001/000003/2025/3/11/hien-trang-duong-ven-ho-tay-truoc-loat-du-an-cai-tao-nang-cap-120480.jpg?width=260&amp;s=gtLnPHajRhSiHzlOL47rgw" media="(max-width: 1023px)" srcset="https://static-images.vnncdn.net/vps_images_publish/000001/000003/2025/3/11/hien-trang-duong-ven-ho-tay-truoc-loat-du-an-cai-tao-nang-cap-120480.jpg?width=260&amp;s=gtLnPHajRhSiHzlOL47rgw">
+    <!--[if IE 9]></video><![endif]-->
+    
+    <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="Hiện trạng đường ven hồ Tây trước loạt dự án cải tạo, nâng cấp" class=" lazy-loaded" data-srcset="https://static-images.vnncdn.net/vps_images_publish/000001/000003/2025/3/11/hien-trang-duong-ven-ho-tay-truoc-loat-du-an-cai-tao-nang-cap-120480.jpg?width=260&amp;s=gtLnPHajRhSiHzlOL47rgw" alt="Hiện trạng đường ven hồ Tây trước loạt dự án cải tạo, nâng cấp" srcset="https://static-images.vnncdn.net/vps_images_publish/000001/000003/2025/3/11/hien-trang-duong-ven-ho-tay-truoc-loat-du-an-cai-tao-nang-cap-120480.jpg?width=260&amp;s=gtLnPHajRhSiHzlOL47rgw">
+        </picture>
+
+            
+                
+          
+                  <span class="icon-avt">
+                    <img src="https://static-images.vnncdn.net/files/2023/4/8/photo-icon.svg" alt="icon avatar">
+                </span>
+                
+            
+        </a>
+    </div>
+    <div class="horizontalPost__main">
+        <div class="horizontalPost__main-cate category-breadcrumb ">
+            <a href="/thoi-su" title="Thời sự">Thời sự</a>
+        </div>
+        <h3 data-id="2379572" class="horizontalPost__main-title vnn-title ">
+            <a href="/hien-trang-duong-ven-ho-tay-truoc-loat-du-an-cai-tao-nang-cap-2379572.html" data-utm-source="#vnn_source=trangchu&amp;vnn_medium=moinong9" title="Hiện trạng đường ven hồ Tây trước loạt dự án cải tạo, nâng cấp">
+                
+                
+                
+            
+                Hiện trạng đường ven hồ Tây trước loạt dự án cải tạo, nâng cấp
+            </a>
+        <a href="https://vietnamnet.vn/hien-trang-duong-ven-ho-tay-truoc-loat-du-an-cai-tao-nang-cap-2379572.html#comment" class="icon-comment box-icon-text box-icon-comment">
+                                        <img class="icon-commnet" src="https://static.vnncdn.net/v1/icon/binh-luan.svg" alt="icon binh luan">
+                                        2
+                                    </a></h3>
+    </div>
+</div>

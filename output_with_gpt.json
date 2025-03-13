@@ -1,0 +1,16 @@
+{
+  "data": {
+    "location": {
+      "selector": "p",
+      "value": "Hà Đông, Hà Nội"
+    },
+    "stores_visited": {
+      "selector": "p",
+      "value": "cửa hàng vàng SJC tại Thái Thịnh và Giang Văn Minh"
+    },
+    "purchase_location": {
+      "selector": "p",
+      "value": "Bảo Tín Minh Châu trên phố Trần Nhân Tông"
+    }
+  }
+}
