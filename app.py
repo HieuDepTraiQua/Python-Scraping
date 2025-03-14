@@ -2,17 +2,9 @@ from flask import Flask, jsonify, request
 from flask_cors import CORS
 from modules.data_crawler import *
 import asyncio
-import config
-from pymongo import MongoClient
-
-
 
 app = Flask(__name__)
 CORS(app)
-client = MongoClient(config.MONGO_URI)
-db = client[config.DATABASE_NAME]
-
-print(f"✅ Kết nối đến MongoDB: {config.DATABASE_NAME}")
 
 @app.route("/crawl", methods=["POST"])
 def crawl_api():

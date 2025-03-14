@@ -70,6 +70,7 @@ def crawl_data_by_html(url, content):
             json.dump(list_json, json_file, ensure_ascii=False, indent=4)
 
         print(f"Dữ liệu đã được ghi vào {output_filename}")
+        
         return result_json
 
 def read_file_content(filename):
