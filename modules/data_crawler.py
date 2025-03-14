@@ -3,9 +3,10 @@ import json
 from bs4 import BeautifulSoup
 import json
 import openai
-import re
 from playwright.async_api import async_playwright
+import re
 import asyncio
+import os
 
 def crawl_data_by_html(url, content):
     with sync_playwright() as p:
@@ -85,8 +86,7 @@ def extract_with_gptkey(content):
     # html = read_file_content("div_content.txt")
     soup = BeautifulSoup(content, "html.parser")
     cleaned_html = soup.prettify()
-
-    openai.api_key = "Chỗ này Là Key"
+    openai.api_key = os.getenv("OPENAI_API_KEY")
     chat_completion = openai.chat.completions.create(
         messages=[
             {"role": "user", "content": f"Bạn là một AI giúp phân tích HTML và trích xuất dữ liệu quan trọng.\

@@ -1,9 +1,32 @@
 {
   "data": {
-    "image": "https://s1.vnecdn.net/vnexpress/restruct/i/v9563/v2_2019/pc/graphics/logo.svg",
-    "altText": {
-      "selector": "img[alt]",
-      "value": "VnExpress - Bao tieng Viet nhieu nguoi xem nhat"
+    "articleClass": {
+      "selector": "article.item-news.thumb-left.item-news-common.close_not_qc.detail_stream_2",
+      "value": "item-news thumb-left item-news-common close_not_qc detail_stream_2"
+    },
+    "adsbyeclickClass": {
+      "selector": "ins.adsbyeclick",
+      "value": "adsbyeclick"
+    },
+    "dataAdHeight": {
+      "selector": "ins.adsbyeclick",
+      "value": "1"
+    },
+    "dataAdIvid": {
+      "selector": "ins.adsbyeclick",
+      "value": "0"
+    },
+    "dataAdWidth": {
+      "selector": "ins.adsbyeclick",
+      "value": "1"
+    },
+    "dataPos": {
+      "selector": "ins.adsbyeclick",
+      "value": "In_stream_2"
+    },
+    "dataZone": {
+      "selector": "ins.adsbyeclick",
+      "value": "7946"
     }
   }
 }

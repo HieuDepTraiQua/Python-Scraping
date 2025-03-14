@@ -1,0 +1,8 @@
+playwright.sync_api
+json
+bs4
+openai
+re
+asyncio
+flask
+flask_cors
