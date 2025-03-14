@@ -1,16 +1,9 @@
 {
   "data": {
-    "location": {
-      "selector": "p",
-      "value": "Hà Đông, Hà Nội"
-    },
-    "stores_visited": {
-      "selector": "p",
-      "value": "cửa hàng vàng SJC tại Thái Thịnh và Giang Văn Minh"
-    },
-    "purchase_location": {
-      "selector": "p",
-      "value": "Bảo Tín Minh Châu trên phố Trần Nhân Tông"
+    "image": "https://s1.vnecdn.net/vnexpress/restruct/i/v9563/v2_2019/pc/graphics/logo.svg",
+    "altText": {
+      "selector": "img[alt]",
+      "value": "VnExpress - Bao tieng Viet nhieu nguoi xem nhat"
     }
   }
 }
