@@ -7,6 +7,10 @@ from playwright.async_api import async_playwright
 import re
 import asyncio
 import os
+from flask import jsonify
+from models.screnario_craw_class import *
+from database import scenario_craw
+from bson import ObjectId
 
 def crawl_data_by_html(url, content):
     with sync_playwright() as p:
@@ -16,7 +20,6 @@ def crawl_data_by_html(url, content):
         # Truy cập trang
         page.goto(url)
         page.wait_for_timeout(3000)
-
         # Đọc dữ liệu JSON từ extract_with_gptkey()
         json_rs = json.loads(extract_with_gptkey(content))
 
@@ -158,3 +161,70 @@ async def fetch_with_playwright(url: str):
         await browser.close()
 
         return html_content
+    
+    
+def create_scenario_craw(scenaio: ScenarioCraw):
+    print(scenaio)
+    new_scenaio = scenario_craw.insert_one(scenaio.model_dump())
+    return {"id": str(new_scenaio.inserted_id)}
+
+def update_scenario_craw(id, scenaio: ScenarioCraw):
+    # Kiểm tra ID có hợp lệ không
+    if not ObjectId.is_valid(id):
+        return {"status": "error", "message": "Invalid ID format"}, 400
+
+    # Chuyển đổi ID sang ObjectId
+    obj_id = ObjectId(id)
+    updated_record = scenario_craw.find_one_and_update(
+        {"_id": obj_id}, 
+        {"$set": scenaio.to_dict()}, 
+        return_document=True  # Trả về bản ghi sau khi cập nhật
+    )
+    
+
+    if updated_record:
+        return {"status": "success", "message": "Record updated successfully", "data": updated_record}, 200
+    else:
+        return {"status": "error", "message": "Record not found"}, 404
+
+
+def delete_scenario_craw(id):
+    # Kiểm tra ID có hợp lệ không
+    if not ObjectId.is_valid(id):
+        return {"status": "error", "message": "Invalid ID format"}, 400
+
+    # Chuyển đổi ID sang ObjectId
+    obj_id = ObjectId(id)
+    
+    existing_record = scenario_craw.find_one({"_id": obj_id})
+    if not existing_record:
+        return {"status": "error", "message": "Record not found"}, 404
+
+    # Thực hiện xóa trong MongoDB
+    scenario_craw.delete_one({"_id": obj_id})
+    return {"status": "success", "message": "Record deleted successfully"}, 200
+    
+def filter_Scenario(str_page, str_size):
+    page = int(str_page.strip())
+    size = int(str_size.strip())
+    skip = (page - 1) * size
+
+    # Lấy dữ liệu từ MongoDB
+    scenarios = list(scenario_craw.find().skip(skip).limit(size))
+
+    # Chuyển đổi ObjectId thành string để tránh lỗi
+    for scenario in scenarios:
+        scenario["_id"] = str(scenario["_id"])
+
+    total_records = scenario_craw.count_documents({})
+    total_pages = (total_records + size - 1) // size
+
+    return {
+        "data": scenarios,
+        "pagination": {
+            "current_page": page,
+            "total_pages": total_pages,
+            "total_records": total_records,
+            "page": page
+        }
+    }

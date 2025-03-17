@@ -1,32 +1,20 @@
 {
   "data": {
-    "articleClass": {
-      "selector": "article.item-news.thumb-left.item-news-common.close_not_qc.detail_stream_2",
-      "value": "item-news thumb-left item-news-common close_not_qc detail_stream_2"
+    "image": {
+      "value": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2025/3/17/chung-cu-lien-tuc-bi-ngat-dien-giua-thu-do-ngop-tho-vi-mui-xang-voi-di-tan-xe-78876.gif?width=260&s=lDXLLrfbskCxnDW_5Oi7fA",
+      "selector": ".horizontalPost__avt img"
     },
-    "adsbyeclickClass": {
-      "selector": "ins.adsbyeclick",
-      "value": "adsbyeclick"
+    "link": {
+      "value": "/chung-cu-giua-thu-do-ngop-tho-mui-xang-dan-so-hai-voi-di-tan-xe-2381476.html",
+      "selector": ".horizontalPost__main-title a"
     },
-    "dataAdHeight": {
-      "selector": "ins.adsbyeclick",
-      "value": "1"
+    "title": {
+      "value": "Chung cư giữa Thủ đô 'ngộp thở' mùi xăng, dân sợ hãi vội di tản xe",
+      "selector": ".horizontalPost__main-title"
     },
-    "dataAdIvid": {
-      "selector": "ins.adsbyeclick",
-      "value": "0"
-    },
-    "dataAdWidth": {
-      "selector": "ins.adsbyeclick",
-      "value": "1"
-    },
-    "dataPos": {
-      "selector": "ins.adsbyeclick",
-      "value": "In_stream_2"
-    },
-    "dataZone": {
-      "selector": "ins.adsbyeclick",
-      "value": "7946"
+    "category": {
+      "value": "Bất động sản",
+      "selector": ".horizontalPost__main-cate a"
     }
   }
 }
