@@ -20,17 +20,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Định nghĩa model đầu vào
-class ScenarioCrawModel(BaseModel):
-    url: str
-    content: str
-    time: str
-    type: str | None = None  # Có thể None
-
 
 # API: Cào dữ liệu từ URL
 @app.post("/crawl")
-async def crawl_api(data: ScenarioCrawModel):
+def crawl_api(data: ScenarioCraw):
     try:
         result = crawl_data_by_html(data.url, data.content)
         return {"status": "success", "data": result}
@@ -50,7 +43,7 @@ async def get_news(url: str = Query(..., description="URL để lấy nội dung
 
 # API: Tạo scenario
 @app.post("/scenario")
-async def create_scenario(data: ScenarioCrawModel):
+async def create_scenario(data: ScenarioCraw):
     try:
         scenario = ScenarioCraw(**data.model_dump())  # Chuyển sang model của bạn
         result = create_scenario_craw(scenario)
@@ -61,7 +54,7 @@ async def create_scenario(data: ScenarioCrawModel):
 
 # API: Cập nhật scenario
 @app.put("/scenario")
-async def update_scenario(id: str, data: ScenarioCrawModel):
+async def update_scenario(id: str, data: ScenarioCraw):
     try:
         scenario = ScenarioCraw(**data.model_dump())
         response, status_code = update_scenario_craw(id, scenario)

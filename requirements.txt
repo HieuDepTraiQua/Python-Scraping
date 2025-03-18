@@ -4,6 +4,8 @@ bs4
 openai
 re
 asyncio
-flask
-flask_cors
+# flask
+# flask_cors
 schedule
+pymongo
+fastapi

@@ -181,6 +181,8 @@ def update_scenario_craw(id, scenaio: ScenarioCraw):
         return_document=True  # Trả về bản ghi sau khi cập nhật
     )
     
+    updated_record["_id"] = str(updated_record["_id"])
+    
 
     if updated_record:
         return {"status": "success", "message": "Record updated successfully", "data": updated_record}, 200
