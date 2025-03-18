@@ -1,88 +1,96 @@
-from flask import Flask, jsonify, request
-from flask_cors import CORS
+from fastapi import FastAPI, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 from modules.data_crawler import *
 from modules.craw_schedule import *
-import asyncio
 import schedule
 import time
 import threading
+from pydantic import BaseModel
 
 
-app = Flask(__name__)
-CORS(app)
 
-@app.route("/crawl", methods=["POST"])
-def crawl_api():
+app = FastAPI()
+
+# Cấu hình CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Định nghĩa model đầu vào
+class ScenarioCrawModel(BaseModel):
+    url: str
+    content: str
+    time: str
+    type: str | None = None  # Có thể None
+
+
+# API: Cào dữ liệu từ URL
+@app.post("/crawl")
+async def crawl_api(data: ScenarioCrawModel):
     try:
-        data = request.get_json()
-        if not data or "url" not in data or "content" not in data:
-            return jsonify({"status": "error", "message": "Missing 'url' or 'content' in request body"}), 400
-        
-        url = data["url"]
-        content = data["content"]
-        
-        result  = crawl_data_by_html(url, content)
-        return jsonify({"status": "success", "data": result}), 200
+        result = crawl_data_by_html(data.url, data.content)
+        return {"status": "success", "data": result}
     except Exception as e:
-        return jsonify({"status": "error", "message": str(e)}), 500
-    
+        raise HTTPException(status_code=500, detail=str(e))
 
-@app.route("/get-html", methods=["GET"])
-def get_news():
-    url = request.args.get("url")
-    if not url:
-        return jsonify({"error": "Missing URL"}), 400
 
+# API: Lấy HTML từ URL
+@app.get("/get-html")
+async def get_news(url: str = Query(..., description="URL để lấy nội dung HTML")):
     try:
-        page_content = asyncio.run(fetch_with_playwright(url))  # Chạy async function trong Flask
-        return jsonify({"html": page_content})
+        page_content = await fetch_with_playwright(url)
+        return {"html": page_content}
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
-    
-@app.route("/scenario", methods=["POST"])
-def create_scenario():
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# API: Tạo scenario
+@app.post("/scenario")
+async def create_scenario(data: ScenarioCrawModel):
     try:
-        data = request.get_json()
-        # Chuyển đổi data thành Pydantic model
-        scenaio = ScenarioCraw(**data)  
-        result  = create_scenario_craw(scenaio)
-        return jsonify({"status": "success", "data": result}), 200
+        scenario = ScenarioCraw(**data.model_dump())  # Chuyển sang model của bạn
+        result = create_scenario_craw(scenario)
+        return {"status": "success", "data": result}
     except Exception as e:
-        return jsonify({"status": "error", "message": str(e)}), 500
-    
-@app.route("/scenario", methods=["PUT"])
-def update_scenario():
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# API: Cập nhật scenario
+@app.put("/scenario")
+async def update_scenario(id: str, data: ScenarioCrawModel):
     try:
-        id = request.args.get("id")
-        data = request.get_json()
-        # Chuyển đổi data thành Pydantic model
-        scenaio = ScenarioCraw(**data)  
-        response, status_code = update_scenario_craw(id, scenaio)
-        return jsonify(response), status_code
+        scenario = ScenarioCraw(**data.model_dump())
+        response, status_code = update_scenario_craw(id, scenario)
+        return response
     except Exception as e:
-        return jsonify({"status": "error", "message": str(e)}), 500    
-    
-    
-@app.route("/scenario", methods=["DELETE"])
-def delete_scenario():
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# API: Xóa scenario
+@app.delete("/scenario")
+async def delete_scenario(id: str):
     try:
-        id = request.args.get("id")
         response, status_code = delete_scenario_craw(id)
-        return jsonify(response), status_code
+        return response
     except Exception as e:
-        return jsonify({"status": "error", "message": str(e)}), 500
-    
-@app.route("/scenario", methods=["GET"])
-def get_scenario():
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# API: Lấy danh sách scenario
+@app.get("/scenario")
+async def get_scenario(page: int = 1, size: int = 10):
     try:
-        size = request.args.get("size")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-        page = request.args.get("page")
         result = filter_Scenario(page, size)
-        return jsonify({"status": "success", "data": result}), 200
+        return {"status": "success", "data": result}
     except Exception as e:
-        return jsonify({"status": "error", "message": str(e)}), 500
-    
-    
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# Chạy scheduler
 def run_scheduler():
     schedule.every(1).minutes.do(check_and_run_crawdata)
     while True:
@@ -90,10 +98,15 @@ def run_scheduler():
         time.sleep(1)
 
 
-# Chạy scheduler khi app khởi động
+# Chạy scheduler trong thread
 scheduler_thread = threading.Thread(target=run_scheduler, daemon=True)
 scheduler_thread.start()
 
-    
+
+# Chạy chương trình: uvicorn app:app --host 0.0.0.0 --port 5000 --loop asyncio
+
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=5000, reload=True)
+    
+

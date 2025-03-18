@@ -204,9 +204,7 @@ def delete_scenario_craw(id):
     scenario_craw.delete_one({"_id": obj_id})
     return {"status": "success", "message": "Record deleted successfully"}, 200
     
-def filter_Scenario(str_page, str_size):
-    page = int(str_page.strip())
-    size = int(str_size.strip())
+def filter_Scenario(page, size):
     skip = (page - 1) * size
 
     # Lấy dữ liệu từ MongoDB
