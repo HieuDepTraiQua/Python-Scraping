@@ -6,5 +6,6 @@ db = client[config.DATABASE_NAME]
 
 print(f"✅ Kết nối đến MongoDB: {config.DATABASE_NAME}")
 
-scenario_craw = db["scenario_craw"]
-history_craw = db["history_craw"]
+scenario_scraping = db["scenario_scraping"]
+history_scraped = db["history_scraped"]
+detail_data_scraped = db["detail_data_scraped"]

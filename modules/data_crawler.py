@@ -8,9 +8,13 @@ import re
 import asyncio
 import os
 from flask import jsonify
+from models.detail_content_craw import DetailContentCraw
+from models.history_craw_class import HistoryCraw
 from models.screnario_craw_class import *
-from database import scenario_craw
+from database import *
 from bson import ObjectId
+from datetime import datetime
+import pytz
 
 def crawl_data_by_html(url, content):
     with sync_playwright() as p:
@@ -163,9 +167,25 @@ async def fetch_with_playwright(url: str):
         return html_content
     
     
-def create_scenario_craw(scenaio: ScenarioCraw):
+def create_scenario_craw(scenaio):
     print(scenaio)
-    new_scenaio = scenario_craw.insert_one(scenaio.model_dump())
+    
+    scenaio_create =  ScenarioCraw()
+    scenaio_create.__dict__ = scenaio.__dict__.copy()
+    
+    scrapedData = scenaio.scrapedData   
+    new_scenaio = scenario_scraping.insert_one(scenaio_create.model_dump())
+    if scrapedData is not None: 
+        history = HistoryCraw(
+            scenarioId=str(new_scenaio.inserted_id),
+            timeScraped=datetime.now()
+        )
+        new_history_scenario = history_scraped.insert_one(history.model_dump())
+        data_craw = DetailContentCraw(
+            historyScrapedId=str(new_history_scenario.inserted_id),
+            data=scrapedData
+        )
+        detail_data_scraped.insert_one(data_craw.model_dump())
     return {"id": str(new_scenaio.inserted_id)}
 
 def update_scenario_craw(id, scenaio: ScenarioCraw):
@@ -175,7 +195,7 @@ def update_scenario_craw(id, scenaio: ScenarioCraw):
 
     # Chuyển đổi ID sang ObjectId
     obj_id = ObjectId(id)
-    updated_record = scenario_craw.find_one_and_update(
+    updated_record = scenario_scraping.find_one_and_update(
         {"_id": obj_id}, 
         {"$set": scenaio.to_dict()}, 
         return_document=True  # Trả về bản ghi sau khi cập nhật
@@ -198,25 +218,25 @@ def delete_scenario_craw(id):
     # Chuyển đổi ID sang ObjectId
     obj_id = ObjectId(id)
     
-    existing_record = scenario_craw.find_one({"_id": obj_id})
+    existing_record = scenario_scraping.find_one({"_id": obj_id})
     if not existing_record:
         return {"status": "error", "message": "Record not found"}, 404
 
     # Thực hiện xóa trong MongoDB
-    scenario_craw.delete_one({"_id": obj_id})
+    scenario_scraping.delete_one({"_id": obj_id})
     return {"status": "success", "message": "Record deleted successfully"}, 200
     
 def filter_Scenario(page, size):
     skip = (page - 1) * size
 
     # Lấy dữ liệu từ MongoDB
-    scenarios = list(scenario_craw.find().skip(skip).limit(size))
+    scenarios = list(scenario_scraping.find().skip(skip).limit(size))
 
     # Chuyển đổi ObjectId thành string để tránh lỗi
     for scenario in scenarios:
         scenario["_id"] = str(scenario["_id"])
 
-    total_records = scenario_craw.count_documents({})
+    total_records = scenario_scraping.count_documents({})
     total_pages = (total_records + size - 1) // size
 
     return {

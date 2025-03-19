@@ -1,13 +1,12 @@
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
+from models.create_scenario_request import CreateScenarioRequest
 from modules.data_crawler import *
 from modules.craw_schedule import *
 import schedule
 import time
 import threading
 from pydantic import BaseModel
-
-
 
 app = FastAPI()
 
@@ -43,9 +42,9 @@ async def get_news(url: str = Query(..., description="URL để lấy nội dung
 
 # API: Tạo scenario
 @app.post("/scenario")
-async def create_scenario(data: ScenarioCraw):
+async def create_scenario(data: CreateScenarioRequest):
     try:
-        scenario = ScenarioCraw(**data.model_dump())  # Chuyển sang model của bạn
+        scenario = CreateScenarioRequest(**data.model_dump())
         result = create_scenario_craw(scenario)
         return {"status": "success", "data": result}
     except Exception as e:
@@ -96,10 +95,8 @@ scheduler_thread = threading.Thread(target=run_scheduler, daemon=True)
 scheduler_thread.start()
 
 
-# Chạy chương trình: uvicorn app:app --host 0.0.0.0 --port 5000 --loop asyncio
+# Chạy chương trình: uvicorn app:app --host 0.0.0.0 --port 5000 --loop asyncio --reload
 
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=5000, reload=True)
-    
-
