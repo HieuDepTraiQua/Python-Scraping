@@ -15,7 +15,7 @@ async def extract_data_from_url():
     dummy_html = BeautifulSoup(html_content, "html.parser")
     llm_config = LLMConfig(
         provider="gemini/gemini-1.5-pro", 
-        api_token= "AIzaSyCp1BrDcVHknHa5wiNCCrj5jVocxdcp6Nc"
+        api_token= "token_gemeini"
     )
     print("\n🚀 Generating schema for product extraction...")
     print("  This would use the LLM to analyze HTML and create an extraction schema")
