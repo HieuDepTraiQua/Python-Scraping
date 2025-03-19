@@ -1,138 +1,54 @@
 [
     {
-        "title": "Bộ Quốc phòng là một hộ khoa học công nghệ lớn của quốc gia",
-        "category": "Khoa học và Công nghệ"
+        "category": "Thời sự",
+        "title": "Tạm giữ hình sự đối tượng cầm dao quắm dọa chém đại úy không quân"
     },
     {
-        "title": "Cứu bé trai 2 tuổi khỏi đám cháy, người phụ nữ nhận trái ngọt sau 18 năm",
-        "category": "Đời sống"
+        "category": "Thời sự",
+        "title": "Trích xuất camera, thông tin nguyên nhân thiếu niên tử vong tại Vạn Hạnh Mall"
     },
     {
-        "title": "Khởi tố, bắt nữ tài xế lái Mercedes ‘lùa’ chục xe máy ở Thủ Đức",
-        "category": "Thời sự"
+        "category": "Thời sự",
+        "title": "Uống 3 lon bia vào 9h sáng, tài xế ngỡ ngàng nhận phạt lúc nửa đêm"
     },
     {
-        "title": "Lãnh đạo Mỹ - Nga nhất trí nhiều yếu tố trước điện đàm về xung đột ở Ukraine",
-        "category": "Thế giới"
+        "category": "Thời sự",
+        "title": "1"
     },
     {
-        "title": "Trung Quốc mua một loại củ của Việt Nam giá rẻ bèo, nông dân thất thu 40-50 tỷ",
-        "category": "Kinh doanh"
+        "category": "Thời sự",
+        "title": "Cảnh sát điều tra kiến nghị nhiều vấn đề quan trọng sau vụ Hậu 'Pháo'"
     },
     {
-        "title": "Bác sĩ phân xác người tình ở Đồng Nai lĩnh án tử hình",
-        "category": "Pháp luật"
+        "category": "Thời sự",
+        "title": "Nữ tài xế phóng xe lên vỉa hè Hà Nội: 'Sợ làm muộn mà bị phạt mất nửa tháng lương'"
     },
     {
-        "title": "Cháy khu tập thể cũ ở trung tâm Hà Nội lúc giữa trưa",
-        "category": "Thời sự"
+        "category": "An toàn giao thông",
+        "title": "18"
     },
     {
-        "title": "Cửa hàng sắp khai trương của trà sữa Chagee tháo logo sau vụ 'đường lưỡi bò'",
-        "category": "Kinh doanh"
+        "category": "Môi trường",
+        "title": "Hình ảnh nhà văn hóa hơn nửa tỷ đang xây dở bị buộc phá dỡ"
     },
     {
-        "title": "Bê bối bóng đá Thái Lan: Madam Pang nhận thư thách thức",
-        "category": "Thể thao"
+        "category": "BHXH - BHYT",
+        "title": "Uống 3 lon bia vào 9h sáng, tài xế ngỡ ngàng nhận phạt lúc nửa đêm"
     },
     {
-        "title": "Ca sĩ Sỹ Ben 'Mưa bụi' lừng lẫy một thời, tuổi già bệnh tật sống ở căn trọ 10m2",
-        "category": "Giải trí"
+        "category": "Chống tham nhũng",
+        "title": "Dự báo thời tiết 19/3/2025: Hà Nội rét khô với gió đông bắc, Nam Bộ nắng nóng"
     },
     {
-        "title": "Bắc Ninh xin lùi thời gian trình Đề án lên thành phố trực thuộc Trung ương",
-        "category": "Chính trị"
+        "category": "Quốc phòng",
+        "title": "Không có chuyện dừng quyền hưởng BHXH một lần của người tham gia từ 1/7/2025"
     },
     {
-        "title": "3",
-        "category": "Thế giới"
+        "category": null,
+        "title": "Tổng Bí thư: Giải quyết dứt điểm 220 vụ việc khiếu nại kéo dài trong quý 2"
     },
     {
-        "title": "Vấn đề hóc búa nhất sau khi Nga và Ukraine ngừng bắn",
-        "category": "Thời sự"
-    },
-    {
-        "title": "Va chạm nhẹ, nữ tài xế ô tô xuống xe đánh nhau với người giao hàng giữa phố",
-        "category": "Sức khỏe"
-    },
-    {
-        "title": "Bộ trưởng Y tế nói về kiến nghị hỗ trợ mức đóng BHYT với người thu nhập thấp",
-        "category": "Kinh doanh"
-    },
-    {
-        "title": "Hoa hậu Đỗ Mỹ Linh làm Phó chủ tịch công ty nhà chồng",
-        "category": "Thời sự"
-    },
-    {
-        "title": "Danh sách 41 người bị đề nghị truy tố trong vụ án Hậu \"Pháo\", Tập đoàn Phúc Sơn",
-        "category": "Đời sống"
-    },
-    {
-        "title": "Người phụ nữ Bắc Ninh tiết lộ lý do chưa đi gặp ân nhân cho vay 8 chỉ vàng",
-        "category": "Du lịch"
-    },
-    {
-        "title": "5",
-        "category": "Tuần Việt Nam"
-    },
-    {
-        "title": "Cung đường xuyên núi 'độc nhất vô nhị' ở Tây Bắc, không phải ai cũng dám đi qua",
-        "category": "Ô tô - Xe máy"
-    },
-    {
-        "title": "Tiến tới xóa bỏ mọi rào cản đối với kinh tế tư nhân",
-        "category": "Giáo dục"
-    },
-    {
-        "title": "1",
-        "category": "Thế giới"
-    },
-    {
-        "title": "Xe phân khối lớn gặp nạn khi cố tránh mảnh vỡ từ vụ siêu xe Audi R8 đâm gốc cây",
-        "category": "Giải trí"
-    },
-    {
-        "title": "TS Lê Bá Khánh Trình kể về người bạn đoạt Huy chương Bạc Olympic qua đời do đột quỵ",
-        "category": "Bất động sản"
-    },
-    {
-        "title": "Ông Trump tước bỏ đặc quyền an ninh của các con cựu Tổng thống Mỹ Biden",
-        "category": "Kinh doanh"
-    },
-    {
-        "title": "Ca sĩ Như Quỳnh thanh sắc hao mòn, sao khán giả vẫn yêu?",
-        "category": null
-    },
-    {
-        "title": "3",
-        "category": null
-    },
-    {
-        "title": "Diễn biến lạ của đất đấu giá ven Hà Nội",
-        "category": null
-    },
-    {
-        "title": "Thanh tra cảnh báo các vấn đề tồn đọng trong ngân hàng thương mại",
-        "category": null
-    },
-    {
-        "title": "Khám phá một trong những hang động đẹp nhất thế giới",
-        "category": null
-    },
-    {
-        "title": "Khu công nghệ thông tin tập trung Yên Bình là khu số, xanh, điển hình Net Zero",
-        "category": null
-    },
-    {
-        "title": "Giáo sư dạy khởi nghiệp tại Mỹ chia sẻ cách để startup Việt vươn tầm quốc tế",
-        "category": null
-    },
-    {
-        "title": "Khu công nghệ thông tin tập trung Yên Bình là khu số, xanh, điển hình Net Zero",
-        "category": null
-    },
-    {
-        "title": "Giáo sư dạy khởi nghiệp tại Mỹ chia sẻ cách để startup Việt vươn tầm quốc tế",
-        "category": null
+        "category": null,
+        "title": "Đề xuất quy định về tàu sân bay, tàu chạy bằng năng lượng hạt nhân vào Việt Nam"
     }
 ]

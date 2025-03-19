@@ -151,13 +151,70 @@ async def fetch_with_playwright(url: str):
 
         try:
             await page.goto(url, wait_until="domcontentloaded", timeout=20000)  # Giảm timeout 20s
+            # Tải ảnh khi load trang web 
+            await page.evaluate('''() => {
+                document.querySelectorAll('img[loading="lazy"]').forEach(img => {
+                    if (img.dataset.src) img.src = img.dataset.src;
+                    else if (img.dataset.srcset) img.src = img.dataset.srcset;
+                    img.loading = "eager";  // Đổi sang chế độ tải ngay lập tức
+                });
+            }''')
+            await page.evaluate('''() => {
+                document.querySelectorAll('img').forEach(img => {
+                    if (img.dataset.src) {
+                        img.src = img.dataset.src;    
+                    } else if (img.dataset.srcset) {
+                        img.src = img.dataset.srcset;
+                    } 
+                });
+                document.querySelectorAll('video').forEach(video => {
+                    video.querySelectorAll('source').forEach(source => {
+                        if (source.dataset.srcVideo) {
+                            source.src = source.dataset.srcVideo;
+                        }
+                    });
+                    video.load();  // Load lại video sau khi thay src
+                });
+            }''')
+            # page.on("requestfinished", lambda req: print(f"📥 Loaded: {req.url}"))
+            # page.on("requestfailed", lambda req: print(f"❌ Failed: {req.url}"))
+            await asyncio.sleep(1)
         except Exception as e:
             print(f"Lỗi khi tải trang: {e}")
             await browser.close()
-            return None
-
+            return None        
         # Cuộn xuống để tải thêm nội dung
         await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+        await page.evaluate('''() => {
+            document.querySelectorAll('img[loading="lazy"]').forEach(img => {
+                if (img.dataset.src) img.src = img.dataset.src;
+                else if (img.dataset.srcset) img.src = img.dataset.srcset;
+                img.loading = "eager";  // Đổi sang chế độ tải ngay lập tức
+            });
+        }''')
+        await page.evaluate('''() => {
+            document.querySelectorAll('img').forEach(img => {
+                if (img.dataset.src) {
+                    img.src = img.dataset.src;    
+                } else if (img.dataset.srcset) {
+                    img.src = img.dataset.srcset;
+                } 
+            });
+            document.querySelectorAll('video').forEach(video => {
+                //if (video.dataset.srcImage) {
+                //    video.poster = video.dataset.srcImage;
+                //}
+                video.querySelectorAll('source').forEach(source => {
+                    if (source.dataset.srcVideo) {
+                        source.src = source.dataset.srcVideo;
+                    }
+                });
+                video.load();  // Load lại video sau khi thay src
+            });
+        }''')
+        
+        # page.on("requestfinished", lambda req: print(f"📥 Loaded: {req.url}"))
+        # page.on("requestfailed", lambda req: print(f"❌ Failed: {req.url}"))
         await asyncio.sleep(1)  # Đợi trang tải
 
         # Lấy nội dung HTML
