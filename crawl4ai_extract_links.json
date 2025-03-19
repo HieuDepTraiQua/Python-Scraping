@@ -1,0 +1,1733 @@
+{
+    "internal": [
+        {
+            "href": "https://vietnamnet.vn/lich-van-nien",
+            "text": "Xem lịch vạn niên",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/",
+            "text": "",
+            "title": "vietnamnet",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tin-tuc-24h",
+            "text": "Tin tức 24h",
+            "title": "Tin tức 24h",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/podcast",
+            "text": "Podcast",
+            "title": "podcast",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuan-viet-nam",
+            "text": "Tuần Việt Nam",
+            "title": "Tuần Việt Nam",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/premium",
+            "text": "",
+            "title": "Vietnamnet premium",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/en",
+            "text": "",
+            "title": "Vietnamnet global",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chinh-tri",
+            "text": "Chính trị",
+            "title": "Chính trị",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chinh-tri/su-kien",
+            "text": "Sự kiện",
+            "title": "Sự kiện",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chinh-tri/xay-dung-dang",
+            "text": "Xây dựng đảng",
+            "title": "Xây dựng đảng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chinh-tri/doi-ngoai",
+            "text": "Đối ngoại",
+            "title": "Đối ngoại",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chinh-tri/ban-luan",
+            "text": "Bàn luận",
+            "title": "Bàn luận",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chinh-tri/ky-nguyen-moi-cua-dan-toc",
+            "text": "Kỷ nguyên mới của dân tộc",
+            "title": "Kỷ nguyên mới của dân tộc",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thoi-su",
+            "text": "Thời sự",
+            "title": "Thời sự",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thoi-su/quoc-hoi-khoa-xv",
+            "text": "Quốc hội",
+            "title": "Quốc hội",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thoi-su/an-toan-giao-thong",
+            "text": "An toàn giao thông",
+            "title": "An toàn giao thông",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thoi-su/moi-truong",
+            "text": "Môi trường",
+            "title": "Môi trường",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thoi-su/bhxh-bhyt",
+            "text": "BHXH-BHYT",
+            "title": "BHXH-BHYT",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thoi-su/chong-tham-nhung",
+            "text": "Chống tham nhũng",
+            "title": "Chống tham nhũng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thoi-su/quoc-phong",
+            "text": "Quốc phòng",
+            "title": "Quốc phòng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/kinh-doanh",
+            "text": "Kinh doanh",
+            "title": "Kinh doanh",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/net-zero",
+            "text": "Net Zero",
+            "title": "Net Zero",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/kinh-doanh/tai-chinh",
+            "text": "Tài chính",
+            "title": "Tài chính",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/kinh-doanh/dau-tu",
+            "text": "Đầu tư",
+            "title": "Đầu tư",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/kinh-doanh/thi-truong",
+            "text": "Thị trường",
+            "title": "Thị trường",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/kinh-doanh/doanh-nhan",
+            "text": "Doanh nhân",
+            "title": "Doanh nhân",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/kinh-doanh/tu-van-tai-chinh",
+            "text": "Tư vấn tài chính",
+            "title": "Tư vấn tài chính",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-truyen-thong",
+            "text": "Khoa học và Công nghệ",
+            "title": "Khoa học và Công nghệ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-truyen-thong/toan-van-cua-bo-truong",
+            "text": "Toàn văn của Bộ trưởng",
+            "title": "Toàn văn của Bộ trưởng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-truyen-thong/chuyen-doi-so",
+            "text": "Chuyển đổi số",
+            "title": "Chuyển đổi số",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-truyen-thong/an-toan-thong-tin",
+            "text": "An toàn thông tin",
+            "title": "An toàn thông tin",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-truyen-thong/ha-tang-so",
+            "text": "Hạ tầng số",
+            "title": "Hạ tầng số",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-truyen-thong/kinh-te-so",
+            "text": "Kinh tế số",
+            "title": "Kinh tế số",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-truyen-thong/bao-chi-xuat-ban",
+            "text": "Báo chí - Xuất bản",
+            "title": "Báo chí - Xuất bản",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-truyen-thong/thi-truong",
+            "text": "Thị trường",
+            "title": "Thị trường",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-truyen-thong/cong-nghe",
+            "text": "Công nghệ",
+            "title": "Công nghệ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-truyen-thong/xu-phat-vi-pham-hanh-chinh",
+            "text": "Xử phạt vi phạm hành chính",
+            "title": "Xử phạt vi phạm hành chính",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-thao",
+            "text": "Thể thao",
+            "title": "Thể thao",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-thao/bong-da-viet-nam",
+            "text": "Bóng đá Việt Nam",
+            "title": "Bóng đá Việt Nam",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-thao/bong-da-quoc-te",
+            "text": "Bóng đá quốc tế",
+            "title": "Bóng đá quốc tế",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-thao/tin-chuyen-nhuong",
+            "text": "Tin chuyển nhượng",
+            "title": "Tin chuyển nhượng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-thao/xem-truc-tiep-bong-da",
+            "text": "Tường thuật trực tiếp",
+            "title": "Tường thuật trực tiếp",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-thao/video-the-thao",
+            "text": "Video thể thao",
+            "title": "Video thể thao",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-thao/du-lieu-bong-da",
+            "text": "Dữ liệu bóng đá",
+            "title": "Dữ liệu bóng đá",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-thao/hau-truong",
+            "text": "Hậu trường",
+            "title": "Hậu trường",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-thao/cac-mon-khac",
+            "text": "Các môn khác",
+            "title": "Các môn khác",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-duc",
+            "text": "Giáo dục",
+            "title": "Giáo dục",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-duc/nha-truong",
+            "text": "Nhà trường",
+            "title": "Nhà trường",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-duc/chan-dung",
+            "text": "Chân dung",
+            "title": "Chân dung",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-duc/goc-phu-huynh",
+            "text": "Góc phụ huynh",
+            "title": "Góc phụ huynh",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-duc/tuyen-sinh",
+            "text": "Tuyển sinh",
+            "title": "Tuyển sinh",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-duc/du-hoc",
+            "text": "Du học",
+            "title": "Du học",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-duc/hoc-tieng-anh",
+            "text": "Học Tiếng Anh",
+            "title": "Học Tiếng Anh",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-duc/trac-nghiem",
+            "text": "Trắc nghiệm",
+            "title": "Trắc nghiệm",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-duc/khoa-hoc",
+            "text": "Khoa học",
+            "title": "Khoa học",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-duc/ai-contest",
+            "text": "AI CONTEST",
+            "title": "AI CONTEST",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-gioi",
+            "text": "Thế giới",
+            "title": "Thế giới",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-gioi/binh-luan-quoc-te",
+            "text": "Bình luận quốc tế",
+            "title": "Bình luận quốc tế",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-gioi/chan-dung",
+            "text": "Chân dung",
+            "title": "Chân dung",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-gioi/ho-so",
+            "text": "Hồ sơ",
+            "title": "Hồ sơ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-gioi/the-gioi-do-day",
+            "text": "Thế giới đó đây",
+            "title": "Thế giới đó đây",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-gioi/viet-nam-va-the-gioi",
+            "text": "Việt Nam và thế giới",
+            "title": "Việt Nam và thế giới",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/the-gioi/quan-su",
+            "text": "Quân sự",
+            "title": "Quân sự",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/doi-song",
+            "text": "Đời sống",
+            "title": "Đời sống",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/doi-song/gia-dinh",
+            "text": "Gia đình",
+            "title": "Gia đình",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/doi-song/chuyen-la",
+            "text": "Chuyện lạ",
+            "title": "Chuyện lạ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/doi-song/am-thuc",
+            "text": "Ẩm thực",
+            "title": "Ẩm thực",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/doi-song/gioi-tre",
+            "text": "Giới trẻ",
+            "title": "Giới trẻ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/doi-song/meo-vat",
+            "text": "Mẹo vặt",
+            "title": "Mẹo vặt",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/doi-song/tam-su",
+            "text": "Tâm sự",
+            "title": "Tâm sự",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giai-tri",
+            "text": "Giải trí",
+            "title": "Giải trí",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giai-tri/the-gioi-sao",
+            "text": "Thế giới sao",
+            "title": "Thế giới sao",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giai-tri/hoa-hau",
+            "text": "Hoa hậu",
+            "title": "Hoa hậu",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giai-tri/thoi-trang",
+            "text": "Thời trang",
+            "title": "Thời trang",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giai-tri/nhac",
+            "text": "Nhạc",
+            "title": "Nhạc",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giai-tri/phim",
+            "text": "Phim",
+            "title": "Phim",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giai-tri/truyen-hinh",
+            "text": "Truyền hình",
+            "title": "Truyền hình",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/suc-khoe",
+            "text": "Sức khỏe",
+            "title": "Sức khỏe",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/suc-khoe/suc-khoe-24h",
+            "text": "Tin tức",
+            "title": "Tin tức",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/suc-khoe/lam-dep",
+            "text": "Làm đẹp",
+            "title": "Làm đẹp",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/suc-khoe/tu-van-suc-khoe",
+            "text": "Tư vấn sức khỏe",
+            "title": "Tư vấn sức khỏe",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/suc-khoe/dan-ong",
+            "text": "Đàn ông",
+            "title": "Đàn ông",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/suc-khoe/benh",
+            "text": "Các loại bệnh",
+            "title": "Các loại bệnh",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/phap-luat",
+            "text": "Pháp luật",
+            "title": "Pháp luật",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/phap-luat/ho-so-vu-an",
+            "text": "Hồ sơ vụ án",
+            "title": "Hồ sơ vụ án",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/phap-luat/tu-van-phap-luat",
+            "text": "Tư vấn pháp luật",
+            "title": "Tư vấn pháp luật",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/phap-luat/ky-su-phap-dinh",
+            "text": "Ký sự pháp đình",
+            "title": "Ký sự pháp đình",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/oto-xe-may",
+            "text": "Xe",
+            "title": "Xe",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/oto-xe-may/xe-moi",
+            "text": "Xe mới",
+            "title": "Xe mới",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/oto-xe-may/kham-pha",
+            "text": "Khám phá",
+            "title": "Khám phá",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/oto-xe-may/sau-tay-lai",
+            "text": "Sau tay lái",
+            "title": "Sau tay lái",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/oto-xe-may/dien-dan",
+            "text": "Diễn đàn",
+            "title": "Diễn đàn",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/oto-xe-may/tu-van",
+            "text": "Tư vấn",
+            "title": "Tư vấn",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/oto-xe-may/danh-gia-xe",
+            "text": "Đánh giá xe",
+            "title": "Đánh giá xe",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/oto-xe-may/gia-xe",
+            "text": "Giá xe",
+            "title": "Giá xe",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/oto-xe-may/du-lieu-xe",
+            "text": "Dữ liệu xe",
+            "title": "Dữ liệu xe",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/du-lich",
+            "text": "Du lịch",
+            "title": "Du lịch",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/du-lich/chuyen-cua-nhung-dong-song-sk0008F1.html",
+            "text": "Chuyện của những dòng sông",
+            "title": "Chuyện của những dòng sông",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/du-lich/di-dau-choi-di",
+            "text": "Đi đâu chơi đi",
+            "title": "Đi đâu chơi đi",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/du-lich/an-uong",
+            "text": "Ăn Ăn Uống Uống",
+            "title": "Ăn Ăn Uống Uống",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/du-lich/ngu-nghi",
+            "text": "Ngủ Ngủ Nghỉ Nghỉ",
+            "title": "Ngủ Ngủ Nghỉ Nghỉ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bat-dong-san",
+            "text": "Bất động sản",
+            "title": "Bất động sản",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bat-dong-san/du-an",
+            "text": "Dự án",
+            "title": "Dự án",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bat-dong-san/noi-that",
+            "text": "Nội thất",
+            "title": "Nội thất",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bat-dong-san/kinh-nghiem-tu-van",
+            "text": "Tư vấn",
+            "title": "Tư vấn",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bat-dong-san/thi-truong",
+            "text": "Thị trường",
+            "title": "Thị trường",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bat-dong-san/nha-dep",
+            "text": "Nhà đẹp",
+            "title": "Nhà đẹp",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bat-dong-san/kim-oanh-group",
+            "text": "Cơ hội an cư",
+            "title": "Cơ hội an cư",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/van-hoa",
+            "text": "Văn hóa",
+            "title": "Văn hóa",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/van-hoa/sach",
+            "text": "Sách",
+            "title": "Sách",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/van-hoa/di-san",
+            "text": "Di sản",
+            "title": "Di sản",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/van-hoa/my-thuat-san-khau",
+            "text": "Mỹ thuật - Sân khấu",
+            "title": "Mỹ thuật - Sân khấu",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/van-hoa/unesco",
+            "text": "UNESCO",
+            "title": "UNESCO",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/dieu-con-mai",
+            "text": "Điều Còn Mãi",
+            "title": "Điều Còn Mãi",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ban-doc",
+            "text": "Bạn đọc",
+            "title": "Bạn đọc",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ban-doc/hoi-am",
+            "text": "Hồi âm",
+            "title": "Hồi âm",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ban-doc/chia-se",
+            "text": "Chia sẻ",
+            "title": "Chia sẻ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ban-doc/tho",
+            "text": "Thơ",
+            "title": "Thơ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ban-doc/ngay-mai-tuoi-sang",
+            "text": "Ngày mai tươi sáng",
+            "title": "Ngày mai tươi sáng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thoi-su/chinh-tri",
+            "text": "Chính trị",
+            "title": "Chính trị",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/hanh-trinh-viet-nam",
+            "text": "",
+            "title": "Hành trình Việt Nam",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/dai-hoi-dang-lan-thu-xiii/nhan-su-toan-van.html",
+            "text": "Toàn văn",
+            "title": "Toàn văn",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/hop-tac/cong-nghiep-ho-tro",
+            "text": "Công nghiệp hỗ trợ",
+            "title": "Công nghiệp hỗ trợ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bao-ve-nguoi-tieu-dung",
+            "text": "Bảo vệ người tiêu dùng",
+            "title": "Bảo vệ người tiêu dùng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thi-truong-tieu-dung",
+            "text": "Thị trường tiêu dùng",
+            "title": "Thị trường tiêu dùng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/dan-toc-ton-giao",
+            "text": "Dân tộc - Tôn giáo",
+            "title": "Dân tộc - Tôn giáo",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://giamngheobenvung.vietnamnet.vn",
+            "text": "Giảm nghèo bền vững",
+            "title": "Giảm nghèo bền vững",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nong-thon-moi",
+            "text": "Nông thôn mới",
+            "title": "Nông thôn mới",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/dan-toc-thieu-so-va-mien-nui",
+            "text": "Dân tộc thiểu số và miền núi",
+            "title": "Dân tộc thiểu số và miền núi",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/noi-dung-chuyen-de",
+            "text": "Nội dung chuyên đề",
+            "title": "Nội dung chuyên đề",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/dinh-chinh",
+            "text": "Đính chính",
+            "title": "Đính chính",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/talkshow",
+            "text": "Talks",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ho-so",
+            "text": "Hồ sơ",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/anh",
+            "text": "Ảnh",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/video",
+            "text": "Video",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/multimedia",
+            "text": "Multimedia",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuyen-bai",
+            "text": "Tuyến bài",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/su-kien",
+            "text": "Sự kiện nóng",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-toa-soan",
+            "text": "Liên hệ tòa soạn",
+            "title": "Liên hệ tòa soạn",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/download-app",
+            "text": "",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/doc-gia-gui-bai",
+            "text": "Độc giả gửi bài",
+            "title": "Liên hệ tòa soạn",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuyen-dung",
+            "text": "Tuyển dụng",
+            "title": "Tuyển dụng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/sap-nhap-tinh-xong-truoc-30-8-co-can-day-lich-thi-tot-nghiep-thpt-som-2382252.html",
+            "text": "",
+            "title": "Sáp nhập tỉnh xong trước 30/8, có cần đẩy lịch thi tốt nghiệp THPT lên sớm?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuyen-viet-nam-dau-campuchia-dieu-ong-kim-sang-sik-can-nhat-2382133.html",
+            "text": "",
+            "title": "Tuyển Việt Nam đấu Campuchia: Điều ông Kim Sang Sik cần nhất",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/sau-di-doi-12-co-quan-35-ho-dan-khu-vuc-ho-guom-duoc-bo-tri-o-dau-2382155.html",
+            "text": "",
+            "title": "Sau di dời, 12 cơ quan, 35 hộ dân khu vực hồ Gươm được bố trí ở đâu?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/kinh-te-tu-nhan-la-dong-luc-tang-truong-quan-trong-nhat-thong-tu-duy-hanh-dong-2382096.html",
+            "text": "",
+            "title": "Kinh tế tư nhân là động lực tăng trưởng quan trọng nhất: Thông tư duy, thông hành động",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cu-63-tinh-thanh-la-63-bi-thu-chu-tich-thi-lam-sao-dat-nuoc-phat-trien-2382141.html",
+            "text": "",
+            "title": "Cứ 63 tỉnh thành là 63 bí thư, chủ tịch thì làm sao đất nước phát triển",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/dau-an-nhung-cai-ten-qua-nhieu-lan-chia-tach-sap-nhap-tinh-2381773.html",
+            "text": "",
+            "title": "Dấu ấn những cái tên qua nhiều lần tách, nhập tỉnh",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/sap-nhap-2-tinh-lam-mot-co-quan-dau-nao-dat-o-tinh-ban-hay-thanh-pho-toi-2381734.html",
+            "text": "",
+            "title": "Sáp nhập 2 tỉnh làm một, cơ quan đầu não đặt ở tỉnh bạn hay thành phố tôi?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/gia-vang-lap-dinh-ky-luc-100-trieu-luong-co-bat-thuong-tang-tiep-hay-ha-nhiet-2382233.html",
+            "text": "",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bo-truong-y-te-hoi-dap-kien-nghi-mo-rong-danh-muc-thuoc-bhyt-nhat-la-benh-nan-y-2382227.html",
+            "text": "",
+            "title": "Bộ trưởng Y tế hồi đáp kiến nghị mở rộng danh mục thuốc BHYT, gồm cả bệnh nan y",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/canh-sat-dieu-tra-kien-nghi-nhieu-van-de-quan-trong-sau-vu-hau-phao-2382228.html",
+            "text": "",
+            "title": "Cảnh sát điều tra kiến nghị nhiều vấn đề quan trọng sau vụ Hậu 'Pháo'",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ong-trump-noi-ve-vien-tro-quan-su-cho-ukraine-sau-cuoc-dien-dam-voi-ong-putin-2382182.html",
+            "text": "",
+            "title": "Ông Trump nói về viện trợ quân sự cho Ukraine sau cuộc điện đàm với ông Putin",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nghi-quyet-57",
+            "text": "Nghị quyết 57",
+            "title": "Nghị quyết 57",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/khong-yeu-cau-nguoi-dan-doanh-nghiep-phai-xuat-trinh-giay-to-da-so-hoa-2380977.html",
+            "text": "",
+            "title": "Không yêu cầu người dân, doanh nghiệp phải xuất trình giấy tờ đã số hóa",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/sieu-tri-tue-viet-o-google-phat-trien-cong-nghe-phai-tao-ra-nguoi-xuat-chung-2382077.html",
+            "text": "",
+            "title": "Siêu trí tuệ Việt ở Google: Phát triển công nghệ phải tạo ra người xuất chúng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/de-co-nhan-luc-chat-luong-cao-truong-dai-hoc-khong-chi-la-thap-nga-2381068.html",
+            "text": "",
+            "title": "Nghị quyết 57: Để có nhân lực chất lượng cao, trường đại học không chỉ là ‘tháp ngà’",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/can-canh-tiem-kich-su-30mk2-luyen-bay-bieu-dien-chao-mung-50-nam-thong-nhat-2382185.html",
+            "text": "",
+            "title": "Cận cảnh tiêm kích Su-30MK2 luyện bay biểu diễn chào mừng 50 năm thống nhất",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/khoi-tai-san-khong-lo-bi-thu-giu-ke-bien-trong-vu-an-tap-doan-phuc-son-2382123.html",
+            "text": "",
+            "title": "Nghìn sổ đỏ, hơn 500 lượng vàng, xe sang... bị thu giữ, kê biên trong vụ án Hậu 'Pháo'",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/rong-ran-xep-hang-dan-ha-noi-do-xo-mua-vang-gia-dinh-100-trieu-dong-2382223.html",
+            "text": "",
+            "title": "Rồng rắn xếp hàng, dân Hà Nội đổ xô mua vàng giá đỉnh 100 triệu đồng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/dua-tang-anh-trai-xe-cho-quan-tai-mat-lai-de-nguoi-em-tu-vong-2382205.html",
+            "text": "",
+            "title": "Đưa tang anh trai, xe chở quan tài mất lái đè người em tử vong",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/pho-di-bo-ngoc-khanh-e-am-vang-khach-2380892.html",
+            "text": "",
+            "title": "Đìu hiu phố đi bộ 30 tỷ đồng ở Hà Nội: Người bán nhiều hơn khách",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bo-dao-nha-dau-dan-mach-ronaldo-cuoc-chinh-phuc-moi-tuoi-40-2382149.html",
+            "text": "",
+            "title": "Cristiano Ronaldo: Cuộc chinh phục mới ở tuổi 40",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nguoi-dan-thu-do-un-un-keo-den-ham-ca-map-check-in-truoc-khi-toa-nha-bi-pha-do-2382274.html",
+            "text": "",
+            "title": "Người dân đứng kín lòng đường check-in tòa nhà 'Hàm cá mập'",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cong-bo-10-guong-mat-tre-viet-nam-tieu-bieu-nam-2024-2380844.html",
+            "text": "",
+            "title": "Công bố 10 gương mặt trẻ Việt Nam tiêu biểu năm 2024",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nguoi-phu-nu-phong-xe-len-via-he-ha-noi-so-lam-muon-bi-phat-nua-thang-luong-2382170.html",
+            "text": "",
+            "title": "Nữ tài xế phóng xe lên vỉa hè Hà Nội: 'Sợ làm muộn mà bị phạt mất nửa tháng lương'",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/hanh-vi-pham-toi-cua-5-cuu-bi-thu-tinh-uy-lien-quan-den-hau-phao-2382035.html",
+            "text": "",
+            "title": "Hành vi phạm tội của 5 cựu Bí thư Tỉnh ủy liên quan đến Hậu 'Pháo'",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nga-chan-mot-loat-cuoc-tan-cong-xuyen-bien-gioi-moi-cua-ukraine-2382146.html",
+            "text": "",
+            "title": "Nga chặn một loạt cuộc tấn công xuyên biên giới mới của Ukraine",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/my-cong-nghe-ban-ha-muc-tieu-khong-can-ten-lua-danh-chan-2381931.html",
+            "text": "",
+            "title": "Mỹ: Công nghệ tiêu diệt mục tiêu không cần tên lửa đánh chặn",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/pho-ca-phe-duong-tau-o-ha-noi-lai-chat-kin-khach-du-lich-2382040.html",
+            "text": "",
+            "title": "Phố cà phê đường tàu ở Hà Nội lại chật kín khách du lịch",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/sieu-du-an-10-000-ty-dong-cua-vietinbank-bi-bo-hoang-15-nam-2382036.html",
+            "text": "",
+            "title": "Tháp 10.000 tỷ đồng bỏ hoang trên đất vàng giống như dự án Vicem",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/truong-dai-hoc-y-duoc-dau-tien-o-viet-nam-co-doanh-thu-nghin-ty-dong-2382158.html",
+            "text": "",
+            "title": "Trường đại học y dược đầu tiên ở Việt Nam có doanh thu nghìn tỷ đồng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/kiem-30-trieu-thang-co-gai-van-roi-ha-noi-ve-vung-que-xa-la-song-mot-minh-2381362.html",
+            "text": "",
+            "title": "Kiếm 30 triệu/tháng, cô gái vẫn rời Hà Nội về vùng quê xa lạ sống một mình",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/gia-dinh-khanh-kiet-khi-ca-hai-con-cung-mac-benh-than-2381180.html",
+            "text": "",
+            "title": "Gia đình khánh kiệt khi cả hai con cùng mắc bệnh thận",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nghe-si-xuan-hinh-nhay-tung-bung-sau-khi-bi-noi-bu-fame-2382147.html",
+            "text": "",
+            "title": "Nghệ sĩ Xuân Hinh nhảy tưng bừng sau khi bị nói 'bú fame'",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/me-coi-da-nang-can-man-vac-tram-kg-dat-len-san-thuong-lam-vuon-rau-trai-sum-se-2381800.html",
+            "text": "",
+            "title": "'Mẹ còi' Đà Nẵng cần mẫn vác trăm kg đất lên sân thượng làm vườn rau trái sum sê",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/phat-hien-tai-xe-co-ma-men-cho-23-hanh-khach-chay-tren-cao-toc-2382075.html",
+            "text": "",
+            "title": "Uống 3 lon bia vào 9h sáng, tài xế ngỡ ngàng nhận phạt lúc nửa đêm",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/noi-loi-chia-tay-bi-ban-trai-dung-dao-dam-nhieu-nhat-truoc-cong-nha-2382283.html",
+            "text": "Nói lời chia tay, bị bạn trai dùng dao đâm nhiều nhát trước cổng nhà",
+            "title": "Nói lời chia tay, bị bạn trai dùng dao đâm nhiều nhát trước cổng nhà",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-dich-tu-bao-nhieu-se-bi-giam-sat-ve-phong-chong-rua-tien-2380794.html",
+            "text": "",
+            "title": "Giao dịch từ bao nhiêu sẽ bị giám sát về phòng, chống rửa tiền?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/gia-xang-trong-nuoc-ngay-mai-se-quay-dau-tang-sau-3-lan-giam-2382163.html",
+            "text": "",
+            "title": "Sau 3 lần giảm liên tiếp, giá xăng trong nước sẽ đảo chiều tăng mạnh?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/gia-vang-hom-nay-19-3-2025-sjc-va-nhan-chinh-thuc-can-dinh-cao-ky-luc-100-trieu-2382107.html",
+            "text": "",
+            "title": "Giá vàng hôm nay 19/3/2025: SJC và nhẫn chính thức cán đỉnh cao kỷ lục 100 triệu",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/trump-organization-dau-tu-1-5-ty-usd-tai-hung-yen-hoan-thanh-dau-nam-2027-2382132.html",
+            "text": "Tập đoàn nhà ông Trump đầu tư 1,5 tỷ USD tại Hưng Yên: Hoàn thành đầu năm 2027?",
+            "title": "Tập đoàn nhà ông Trump đầu tư 1,5 tỷ USD tại Hưng Yên: Hoàn thành đầu năm 2027?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-19-3-2025-bat-ngo-tang-tro-lai-2382115.html",
+            "text": "Lãi suất ngân hàng hôm nay 19/3/2025: Nhà băng ngoại tăng lãi tiền gửi",
+            "title": "Lãi suất ngân hàng hôm nay 19/3/2025: Nhà băng ngoại tăng lãi tiền gửi",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bo-tai-chinh-quyet-giu-bao-hiem-xe-may-vi-tai-nan-duoc-boi-thuong-150-trieu-dong-2381798.html",
+            "text": "Không bỏ bảo hiểm xe máy vì phí 60.000 đồng, tai nạn bồi thường 150 triệu đồng",
+            "title": "Không bỏ bảo hiểm xe máy vì phí 60.000 đồng, tai nạn bồi thường 150 triệu đồng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ty-gia-tag421750800934140507.html#vnn_source=trangchu&vnn_medium=box_tygia",
+            "text": "Ngoại tệ",
+            "title": "Ngoại tệ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/gia-vang-tag14642850852768478603.html#vnn_source=trangchu&vnn_medium=box_giavang",
+            "text": "Giá vàng",
+            "title": "Giá vàng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giai-the-ban-chi-dao-xay-dung-nha-quoc-hoi-2382164.html",
+            "text": "",
+            "title": "Giải thể Ban chỉ đạo xây dựng Nhà Quốc hội",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tam-nhin-jack-ma-giup-alibaba-tai-sinh-2382186.html",
+            "text": "",
+            "title": "Tầm nhìn của Jack Ma giúp Alibaba ‘tái sinh’",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ba-nguoi-thong-minh-nhat-elon-musk-tung-gap-2382260.html",
+            "text": "Ba người thông minh nhất Elon Musk từng gặp",
+            "title": "Ba người thông minh nhất Elon Musk từng gặp",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuan-viet-nam/cay-but",
+            "text": "Cây bút",
+            "title": "Cây bút",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuan-viet-nam/tieu-diem",
+            "text": "Tiêu điểm",
+            "title": "Tiêu điểm",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuan-viet-nam/viet-nam-hung-cuong",
+            "text": "Việt Nam hùng cường",
+            "title": "Việt Nam hùng cường",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuan-viet-nam/thong-tin-da-chieu",
+            "text": "Thông tin đa chiều",
+            "title": "Thông tin đa chiều",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuan-viet-nam/dau-thoi-gian",
+            "text": "Dấu thời gian",
+            "title": "Dấu thời gian",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tien-toi-xoa-bo-moi-rao-can-doi-voi-kinh-te-tu-nhan-2381677.html",
+            "text": "",
+            "title": "Tiến tới xóa bỏ mọi rào cản đối với kinh tế tư nhân",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bo-xay-dung-bao-cao-thu-tuong-ly-do-du-thua-hang-trieu-tan-xi-mang-2382248.html",
+            "text": "",
+            "title": "Bộ Xây dựng nêu lý do hàng triệu tấn xi măng dư thừa",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ha-noi-de-nghi-cong-an-vao-cuoc-xu-ly-co-moi-nha-o-xa-hoi-2382122.html",
+            "text": "Hà Nội đề nghị công an vào cuộc xử lý ‘cò mồi’ nhà ở xã hội",
+            "title": "Hà Nội đề nghị công an vào cuộc xử lý ‘cò mồi’ nhà ở xã hội",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/can-canh-du-an-lien-quan-ngon-tro-trieu-do-cua-cuu-bi-thu-vinh-phuc-2381856.html",
+            "text": "Cận cảnh dự án liên quan 'ngón trỏ triệu USD' của cựu bí thư Vĩnh Phúc",
+            "title": "Cận cảnh dự án liên quan 'ngón trỏ triệu USD' của cựu bí thư Vĩnh Phúc",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chung-cu-giua-thu-do-ngop-tho-mui-xang-dan-so-hai-voi-di-tan-xe-2381476.html",
+            "text": "Chung cư giữa Thủ đô 'ngộp thở' mùi xăng, dân sợ hãi vội di tản xe",
+            "title": "Chung cư giữa Thủ đô 'ngộp thở' mùi xăng, dân sợ hãi vội di tản xe",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/vonta-thu-hut-dai-ly-nganh-thiet-bi-dien-nhap-cuoc-dua-phan-phoi-2380248.html",
+            "text": "",
+            "title": "VONTA thu hút đại lý ngành thiết bị điện nhập cuộc đua phân phối",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/kinh-doanh/amaccao",
+            "text": "Cửa NOVO DOOR (AMACCAO) - Hiệp sĩ chống lại thần lửa",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/indonesia-tuyen-bo-du-world-cup-2026-voi-patrick-kluivert-2382276.html",
+            "text": "",
+            "title": "Indonesia tuyên bố dự World Cup 2026 với Kluivert",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tin-tuc-ve-chuyen-nhuong-19-3-mu-ky-isak-man-city-ky-wirtz-2382272.html",
+            "text": "Tin tức về chuyển nhượng 19/3: MU tranh Isak, Man City ký Wirtz",
+            "title": "Tin tức về chuyển nhượng 19/3: MU tranh Isak, Man City ký Wirtz",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cau-thu-man-city-duoc-tang-xe-hop-sieu-sang-2382212.html",
+            "text": "Cầu thủ Man City được tặng 'xế hộp' siêu sang",
+            "title": "Cầu thủ Man City được tặng 'xế hộp' siêu sang",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chuyen-2-kim-thoa-lot-xac-voi-bo-anh-mung-sinh-nhat-2382062.html",
+            "text": "Chuyền 2 Kim Thoa 'lột xác' với bộ ảnh mừng sinh nhật",
+            "title": "Chuyền 2 Kim Thoa 'lột xác' với bộ ảnh mừng sinh nhật",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/lan-dau-tien-bo-quoc-phong-tuyen-chuyen-nganh-thiet-bi-bay-khong-nguoi-lai-2382242.html",
+            "text": "",
+            "title": "Lần đầu tiên Bộ Quốc phòng tuyển chuyên ngành Thiết bị bay không người lái",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/truong-tieu-hoc-bao-cao-hoc-sinh-bi-du-do-bat-coc-ket-qua-xac-minh-gay-bat-ngo-2382065.html",
+            "text": "Trường tiểu học báo cáo học sinh bị dụ dỗ bắt cóc, kết quả xác minh gây bất ngờ",
+            "title": "Trường tiểu học báo cáo học sinh bị dụ dỗ bắt cóc, kết quả xác minh gây bất ngờ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuyen-sinh-lop-10-ha-noi-phu-huynh-con-phai-xep-hang-cho-nop-ho-so-2381878.html",
+            "text": "Tuyển sinh lớp 10 Hà Nội, phụ huynh còn phải xếp hàng chờ nộp hồ sơ?",
+            "title": "Tuyển sinh lớp 10 Hà Nội, phụ huynh còn phải xếp hàng chờ nộp hồ sơ?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/phat-hien-95-5kg-vang-trong-can-ho-chung-cu-cua-2-bo-con-2382018.html",
+            "text": "",
+            "title": "Phát hiện 95,5kg vàng trong căn hộ chung cư của 2 bố con",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/31-nam-het-minh-voi-moi-tinh-chi-em-nguoi-dan-ong-chua-xot-bi-duoi-khoi-nha-2381963.html",
+            "text": "31 năm hết mình với 'mối tình chị em', người đàn ông chua xót bị đuổi khỏi nhà",
+            "title": "31 năm hết mình với 'mối tình chị em', người đàn ông chua xót bị đuổi khỏi nhà",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chong-co-bac-no-gan-1-ty-dong-muon-vo-ban-nha-de-lam-lai-cuoc-doi-2381875.html",
+            "text": "Chồng cờ bạc nợ gần 1 tỷ đồng, muốn vợ bán nhà để 'làm lại cuộc đời'",
+            "title": "Chồng cờ bạc nợ gần 1 tỷ đồng, muốn vợ bán nhà để 'làm lại cuộc đời'",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cha-toi-nguoi-o-lai-tap-15-nguyen-gap-bien-co-lon-viet-thong-bao-di-du-hoc-2382154.html",
+            "text": "",
+            "title": "'Cha tôi người ở lại' tập 15: Nguyên gặp biến cố lớn, Việt thông báo đi du học",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/khi-hat-ha-anh-tuan-co-tan-huong-duoc-niem-vui-2382236.html",
+            "text": "Khi hát Hà Anh Tuấn có tận hưởng được niềm vui?",
+            "title": "Khi hát Hà Anh Tuấn có tận hưởng được niềm vui?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thuc-hu-video-kim-soo-hyun-tung-hen-ho-kim-sae-ron-tai-nha-rieng-2382171.html",
+            "text": "Thực hư video Kim Soo Hyun từng hẹn hò Kim Sae Ron tại nhà riêng",
+            "title": "Thực hư video Kim Soo Hyun từng hẹn hò Kim Sae Ron tại nhà riêng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/hanh-dong-cham-den-trai-tim-cua-hieuthuhai-my-tam-noo-phuoc-thinh-2380868.html",
+            "text": "Hành động chạm đến trái tim của HIEUTHUHAI, Mỹ Tâm và Noo Phước Thịnh",
+            "title": "Hành động chạm đến trái tim của HIEUTHUHAI, Mỹ Tâm và Noo Phước Thịnh",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/noi-an-han-cua-van-dung-2380806.html",
+            "text": "Điều ân hận, day dứt của nghệ sĩ Vân Dung",
+            "title": "Điều ân hận, day dứt của nghệ sĩ Vân Dung",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ung-dung-ai-tao-sinh-giup-robot-tuong-tac-thong-minh-hon-2381531.html",
+            "text": "",
+            "title": "Ứng dụng AI tạo sinh giúp robot tương tác thông minh hơn",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/them-nhieu-dai-dien-viet-nam-tham-gia-lien-minh-ai-the-gioi-2380634.html",
+            "text": "",
+            "title": "Thêm nhiều đại diện Việt Nam tham gia Liên minh AI thế giới",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nguoi-phu-nu-mac-chung-xuong-hoa-da-2382173.html",
+            "text": "",
+            "title": "Người phụ nữ mắc chứng 'xương hóa đá'",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/em-be-2-tuoi-tu-vong-nghi-do-soi-2381871.html",
+            "text": "Bé 2 tuổi tử vong sau 12 giờ đến viện cấp cứu",
+            "title": "Bé 2 tuổi tử vong sau 12 giờ đến viện cấp cứu",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/loai-thuc-pham-co-gia-re-giup-ban-chong-gia-2381627.html",
+            "text": "Loại thực phẩm có giá rẻ giúp bạn chống già",
+            "title": "Loại thực phẩm có giá rẻ giúp bạn chống già",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nguoi-dan-ong-vo-doi-tinh-hoan-luc-dang-ngu-vi-cu-dap-cua-con-trai-8-tuoi-2382177.html",
+            "text": "Người đàn ông vỡ đôi tinh hoàn lúc đang ngủ vì cú đập của con trai 8 tuổi",
+            "title": "Người đàn ông vỡ đôi tinh hoàn lúc đang ngủ vì cú đập của con trai 8 tuổi",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/hai-lanh-dao-cong-ty-dai-hai-dem-dat-cua-dan-the-chap-ngan-hang-va-can-tru-no-2382270.html",
+            "text": "Chủ tịch mang đất biệt thự của khách đi thế chấp ngân hàng, cấn trừ nợ",
+            "title": "Chủ tịch mang đất biệt thự của khách đi thế chấp ngân hàng, cấn trừ nợ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cuu-bi-thu-vinh-phuc-hoang-thuy-lan-gio-1-ngon-tay-hau-phao-mang-den-trieu-do-2381742.html",
+            "text": "Cựu Bí thư Vĩnh Phúc Hoàng Thúy Lan giơ 1 ngón tay, Hậu ‘Pháo’ mang đến triệu USD",
+            "title": "Cựu Bí thư Vĩnh Phúc Hoàng Thúy Lan giơ 1 ngón tay, Hậu ‘Pháo’ mang đến triệu USD",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tinh-nao-duoc-lap-4-so-ngoai-vu-dan-toc-ton-giao-du-lich-quy-hoach-kien-truc-2378280.html",
+            "text": "Tỉnh nào được lập 4 sở Ngoại vụ, Dân tộc và Tôn giáo, Du lịch, Quy hoạch - Kiến trúc?",
+            "title": "Tỉnh nào được lập 4 sở Ngoại vụ, Dân tộc và Tôn giáo, Du lịch, Quy hoạch - Kiến trúc?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/he-lo-thoi-gian-phai-doan-nga-my-dam-phan-lan-thu-2-o-arap-xeut-2382238.html",
+            "text": "",
+            "title": "Hé lộ thời gian phái đoàn Nga - Mỹ đàm phán lần 2 ở Ảrập Xêút",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ong-zelensky-va-loat-lanh-dao-chau-au-len-tieng-ve-cuoc-dien-dam-nga-my-2382161.html",
+            "text": "Ông Zelensky và loạt lãnh đạo châu Âu lên tiếng về cuộc điện đàm Nga - Mỹ",
+            "title": "Ông Zelensky và loạt lãnh đạo châu Âu lên tiếng về cuộc điện đàm Nga - Mỹ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/video-ukraine-day-lui-tan-cong-cua-nga-o-khu-vuc-bien-gioi-sumy-2381897.html",
+            "text": "Video Ukraine đẩy lùi tấn công của Nga ở khu vực biên giới Sumy",
+            "title": "Video Ukraine đẩy lùi tấn công của Nga ở khu vực biên giới Sumy",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/hien-truong-truc-thang-mi-28-cua-nga-bi-roi-phi-hanh-doan-tu-nan-2382199.html",
+            "text": "Hiện trường trực thăng Mi-28 của Nga bị rơi, phi hành đoàn tử nạn",
+            "title": "Hiện trường trực thăng Mi-28 của Nga bị rơi, phi hành đoàn tử nạn",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ten-tinh-sau-sap-nhap-bo-tu-duy-que-anh-que-toi-vi-que-minh-van-con-do-2381743.html",
+            "text": "",
+            "title": "Tên tỉnh sau sáp nhập: Bỏ tư duy 'quê anh, quê tôi' vì quê mình vẫn còn đó",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/xe-dien-bung-no-viet-nam-can-rot-them-9-ty-usd-nang-cong-suat-luoi-dien-2381956.html",
+            "text": "",
+            "title": "Xe điện bùng nổ, Việt Nam cần rót thêm 9 tỷ USD để nâng công suất lưới điện",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/trung-quoc-binh-dan-hoa-cong-nghe-xe-tu-hanh-nho-ai-2382144.html",
+            "text": "Trung Quốc 'bình dân hóa' công nghệ xe tự hành nhờ AI",
+            "title": "Trung Quốc 'bình dân hóa' công nghệ xe tự hành nhờ AI",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/xe-phan-khoi-lon-gap-nan-khi-co-tranh-manh-vo-tu-vu-sieu-xe-audi-r8-dam-goc-cay-2381830.html",
+            "text": "Xe phân khối lớn gặp nạn khi cố tránh mảnh vỡ từ vụ siêu xe Audi R8 đâm gốc cây",
+            "title": "Xe phân khối lớn gặp nạn khi cố tránh mảnh vỡ từ vụ siêu xe Audi R8 đâm gốc cây",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/12-truong-hop-cam-vuot-xe-du-khong-co-bien-cam-tai-xe-can-nho-keo-bi-phat-nang-2381880.html",
+            "text": "12 trường hợp cấm vượt xe dù không có biển báo, tài xế cần nhớ để tránh bị phạt nặng",
+            "title": "12 trường hợp cấm vượt xe dù không có biển báo, tài xế cần nhớ để tránh bị phạt nặng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/dan-sieu-xe-vuot-den-do-tai-da-nang-cua-dai-gia-hoang-kim-khanh-dat-do-the-nao-2381738.html",
+            "text": "Dàn siêu xe vượt đèn đỏ tại Đà Nẵng của đại gia Hoàng Kim Khánh đắt đỏ thế nào?",
+            "title": "Dàn siêu xe vượt đèn đỏ tại Đà Nẵng của đại gia Hoàng Kim Khánh đắt đỏ thế nào?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nguoi-chau-phi-thu-lau-viet-khoe-an-xong-thay-khoe-co-the-vac-chuc-bao-thoc-2381820.html",
+            "text": "",
+            "title": "Người châu Phi thử lẩu Việt, khoe ăn xong thấy khỏe, có thể vác chục bao thóc",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cung-duong-xuyen-nui-doc-nhat-vo-nhi-o-tay-bac-khong-phai-ai-cung-dam-di-qua-2381337.html",
+            "text": "Cung đường xuyên núi 'độc nhất vô nhị' ở Tây Bắc, không phải ai cũng dám đi qua",
+            "title": "Cung đường xuyên núi 'độc nhất vô nhị' ở Tây Bắc, không phải ai cũng dám đi qua",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ghe-cho-co-vi-tri-dep-bac-nhat-ha-noi-co-gai-dubai-manh-tay-mua-7-mon-lam-qua-2380934.html",
+            "text": "Ghé chợ có vị trí đẹp bậc nhất Hà Nội, cô gái Dubai 'mạnh tay' mua 7 món làm quà",
+            "title": "Ghé chợ có vị trí đẹp bậc nhất Hà Nội, cô gái Dubai 'mạnh tay' mua 7 món làm quà",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuong-nu-than-tu-do-bi-noi-san-xuat-doi-ve-2381923.html",
+            "text": "Tượng Nữ thần Tự do bị 'nơi sản xuất' đòi về",
+            "title": "Tượng Nữ thần Tự do bị 'nơi sản xuất' đòi về",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/vai-dien-khac-nghiet-va-noi-tran-tro-cua-dien-vien-quoc-thai-tuoi-51-2381420.html",
+            "text": "",
+            "title": "Vai diễn khắc nghiệt và nỗi trăn trở của diễn viên Quốc Thái ở tuổi 51",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bac-ninh-khai-quat-khan-cap-2-thuyen-co-duoc-phat-hien-duoi-long-ao-2382089.html",
+            "text": "Bắc Ninh khai quật khẩn cấp 2 thuyền cổ được phát hiện dưới lòng ao",
+            "title": "Bắc Ninh khai quật khẩn cấp 2 thuyền cổ được phát hiện dưới lòng ao",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nhu-quynh-khong-con-o-dinh-cao-ca-thanh-lan-sac-2374221.html",
+            "text": "Ca sĩ Như Quỳnh không còn ở đỉnh cao cả thanh lẫn sắc nhưng...",
+            "title": "Ca sĩ Như Quỳnh không còn ở đỉnh cao cả thanh lẫn sắc nhưng...",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nguoi-dep-hoa-ban-2025-linh-dan-co-bo-la-thuong-ta-quan-doi-me-lam-nganh-y-2381916.html",
+            "text": "'Người đẹp Hoa Ban' 2025 Linh Đan có bố là Thượng tá quân đội, mẹ làm ngành y",
+            "title": "'Người đẹp Hoa Ban' 2025 Linh Đan có bố là Thượng tá quân đội, mẹ làm ngành y",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cuoc-lot-xac-ngoan-muc-cua-nu-nghe-si-tung-bi-che-lan-tren-san-khau-2381629.html",
+            "text": "Cuộc lột xác ngoạn mục của nữ nghệ sĩ từng bị chê lăn trên sân khấu",
+            "title": "Cuộc lột xác ngoạn mục của nữ nghệ sĩ từng bị chê lăn trên sân khấu",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/be-gai-10-tuoi-can-giup-150-trieu-dong-mo-u-nao-cuu-nguy-tinh-mang-2381417.html",
+            "text": "",
+            "title": "Bé gái 10 tuổi cần giúp 150 triệu đồng mổ u não",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/anh-pham-hoai-nam-bi-tai-nan-duoc-giup-do-hon-75-trieu-dong-2380950.html",
+            "text": "Anh Phạm Hoài Nam được giúp đỡ hơn 75 triệu đồng",
+            "title": "Anh Phạm Hoài Nam được giúp đỡ hơn 75 triệu đồng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ban-doc-tiep-tuc-giup-do-anh-lo-van-tuan-hon-46-trieu-dong-2380957.html",
+            "text": "Bạn đọc tiếp tục giúp đỡ anh Lò Văn Tuấn hơn 46 triệu đồng",
+            "title": "Bạn đọc tiếp tục giúp đỡ anh Lò Văn Tuấn hơn 46 triệu đồng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cha-me-hon-30-nam-cham-soc-con-gai-thieu-nang-con-trai-mac-benh-tan-mau-2380694.html",
+            "text": "Cha mẹ hơn 30 năm chăm sóc con gái thiểu năng, con trai mắc bệnh tan máu",
+            "title": "Cha mẹ hơn 30 năm chăm sóc con gái thiểu năng, con trai mắc bệnh tan máu",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cha-me-ban-het-trau-bo-mong-cuu-con-10-tuoi-bi-vo-mach-mau-nao-2380638.html",
+            "text": "Cha mẹ bán hết trâu bò mong cứu con 10 tuổi bị vỡ mạch máu não",
+            "title": "Cha mẹ bán hết trâu bò mong cứu con 10 tuổi bị vỡ mạch máu não",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-cai-chinh-xin-loi-2325380.html",
+            "text": "Thông tin cải chính, xin lỗi",
+            "title": "Thông tin cải chính, xin lỗi",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thong-tin-cai-chinh-xin-loi-2287393.html",
+            "text": "Thông tin cải chính, xin lỗi",
+            "title": "Thông tin cải chính, xin lỗi",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/thang-cuon-gap-su-co-hang-chuc-hanh-khach-nga-chong-len-nhau-2381554.html",
+            "text": "",
+            "title": "Thang cuốn gặp sự cố, hàng chục hành khách ngã chồng lên nhau",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/duong-hoa-phong-linh-dep-nhu-han-quoc-nang-tho-keo-nhau-xuong-pho-check-in-2382101.html",
+            "text": "",
+            "title": "Đường hoa phong linh đẹp như Hàn Quốc, 'nàng thơ' kéo nhau xuống phố check-in",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/doc-la-mon-banh-hinh-chiec-dep-thu-hut-hang-nghin-khach-xep-hang-mua-o-tphcm-2381047.html",
+            "text": "",
+            "title": "TPHCM: Hàng nghìn khách xếp hàng mua loại bánh độc đáo hình chiếc dép",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/phat-hien-them-567-di-tich-sau-kiem-ke-o-ha-noi-pre2381984.html",
+            "text": "",
+            "title": "Phát hiện thêm 567 di tích sau kiểm kê ở Hà Nội",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ban-tin-trua-19-3-tren-duong-vao-bo-tau-ca-bat-ngo-bi-chim-4-nguoi-mat-tich-2382214.html",
+            "text": "Bản tin trưa 19/3: Trên đường vào bờ, tàu cá bất ngờ bị chìm, 4 người mất tích",
+            "title": "Bản tin trưa 19/3: Trên đường vào bờ, tàu cá bất ngờ bị chìm, 4 người mất tích",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ban-tin-sang-19-3-pho-ca-phe-duong-tau-o-ha-noi-lai-chat-kin-khach-du-lich-2382168.html",
+            "text": "Bản tin sáng 19/3: Phố cà phê đường tàu ở Hà Nội lại chật kín khách du lịch",
+            "title": "Bản tin sáng 19/3: Phố cà phê đường tàu ở Hà Nội lại chật kín khách du lịch",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/iphone-giam-gia-sap-san-may-giat-gia-chi-tu-3-2-trieu-dong-2378745.html",
+            "text": "",
+            "title": "iPhone giảm giá 'sập sàn', máy giặt giá chỉ từ 3,2 triệu đồng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/quang-cao-sai-su-that-nhu-hang-du-muc-quang-linh-vlogs-phap-luat-xu-ly-the-nao-2378329.html",
+            "text": "",
+            "title": "Quảng cáo sai sự thật như Hằng Du Mục, Quang Linh Vlogs pháp luật xử lý thế nào?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nho-sua-trung-quoc-hang-thuong-hang-gia-chi-12-000-dong-kg-o-cho-viet-2378162.html",
+            "text": "",
+            "title": "Nho sữa Trung Quốc: Hàng thượng hạng giá rẻ hơn mớ rau muống ở chợ Việt",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/gia-thanh-heo-hoi-chi-45-000-dong-kg-thit-heo-vot-len-280-000-dong-kg-2379280.html",
+            "text": "",
+            "title": "DN tiết lộ chi phí nuôi heo hơi, thịt heo có loại vọt lên 280.000 đồng/kg",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tiktoker-dua-mukbang-dac-san-mang-vau-ngot-tay-bac-sot-ran-ran-2374966.html",
+            "text": "",
+            "title": "Tiktoker đua ‘mukbang’, đặc sản Tây Bắc sốt rần rần, từ giá rẻ thành hàng đắt đỏ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/khu-cong-nghe-thong-tin-tap-trung-yen-binh-la-khu-so-xanh-dien-hinh-net-zero-2380839.html",
+            "text": "",
+            "title": "Khu công nghệ thông tin tập trung Yên Bình là khu số, xanh, điển hình Net Zero",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/giao-su-day-khoi-nghiep-o-my-mach-nuoc-startup-viet-cach-vuon-tam-quoc-te-2367027.html",
+            "text": "",
+            "title": "Giáo sư dạy khởi nghiệp tại Mỹ chia sẻ cách để startup Việt vươn tầm quốc tế",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/sap-nhap-2-tinh-lam-mot-co-quan-dau-nao-dat-o-tinh-ban-hay-thanh-pho-toi-2381734.html#comment",
+            "text": "19",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/khoi-to-bat-nu-tai-xe-lai-mercedes-lua-chuc-xe-may-o-thu-duc-2381658.html",
+            "text": "Khởi tố, bắt nữ tài xế lái Mercedes ‘lùa’ chục xe máy ở TPHCM",
+            "title": "Khởi tố, bắt nữ tài xế lái Mercedes ‘lùa’ chục xe máy ở TPHCM",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cuc-csgt-chi-dao-xu-ly-xe-3-4-banh-tu-che-khong-vung-cam-khong-ngoai-le-2382010.html",
+            "text": "Cục CSGT chỉ đạo xử lý loạt 'hung thần' đường phố: Không vùng cấm, không ngoại lệ",
+            "title": "Cục CSGT chỉ đạo xử lý loạt 'hung thần' đường phố: Không vùng cấm, không ngoại lệ",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/tuyen-sinh-lop-10-ha-noi-phu-huynh-con-phai-xep-hang-cho-nop-ho-so-2381878.html#comment",
+            "text": "14",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/bo-tai-chinh-quyet-giu-bao-hiem-xe-may-vi-tai-nan-duoc-boi-thuong-150-trieu-dong-2381798.html#comment",
+            "text": "10",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chu-so-huu-dong-pi-dung-giua-nga-ba-duong-khi-gia-van-lao-doc-khong-phanh-2379677.html",
+            "text": "Chủ sở hữu đồng Pi đứng giữa 'ngã ba đường' khi giá vẫn lao dốc không phanh",
+            "title": "Chủ sở hữu đồng Pi đứng giữa 'ngã ba đường' khi giá vẫn lao dốc không phanh",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/chu-so-huu-dong-pi-dung-giua-nga-ba-duong-khi-gia-van-lao-doc-khong-phanh-2379677.html#comment",
+            "text": "7",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/cu-63-tinh-thanh-la-63-bi-thu-chu-tich-thi-lam-sao-dat-nuoc-phat-trien-2382141.html#comment",
+            "text": "4",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/noi-an-han-cua-van-dung-2380806.html#comment",
+            "text": "3",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/om-san-6-ty-be-lai-ve-que-chon-o-nha-thue-quyet-khong-mua-nha-ha-noi-2381254.html",
+            "text": "Ôm sẵn 6 tỷ ‘bẻ lái’ về quê, chọn ở nhà thuê quyết không mua nhà Hà Nội",
+            "title": "Ôm sẵn 6 tỷ ‘bẻ lái’ về quê, chọn ở nhà thuê quyết không mua nhà Hà Nội",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/om-san-6-ty-be-lai-ve-que-chon-o-nha-thue-quyet-khong-mua-nha-ha-noi-2381254.html#comment",
+            "text": "1",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ty-le-ung-ho-ong-trump-cao-nguoi-my-tin-dat-nuoc-di-dung-huong-2381611.html",
+            "text": "Tỷ lệ ủng hộ ông Trump cao, người Mỹ tin đất nước đi đúng hướng",
+            "title": "Tỷ lệ ủng hộ ông Trump cao, người Mỹ tin đất nước đi đúng hướng",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ty-le-ung-ho-ong-trump-cao-nguoi-my-tin-dat-nuoc-di-dung-huong-2381611.html#comment",
+            "text": "1",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ong-trum-bat-dong-san-ly-trieu-co-qua-doi-2381778.html",
+            "text": "Ông trùm bất động sản Lý Triệu Cơ qua đời",
+            "title": "Ông trùm bất động sản Lý Triệu Cơ qua đời",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/ong-trum-bat-dong-san-ly-trieu-co-qua-doi-2381778.html#comment",
+            "text": "1",
+            "title": "",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/en/vietnam-s-administrative-reform-merging-provinces-for-a-stronger-future-2382232.html",
+            "text": "",
+            "title": "Vietnam’s administrative reform: Merging provinces for a stronger future?",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/en/savor-crispy-banh-xeo-with-wild-greens-atop-cam-mountain-2381194.html",
+            "text": "",
+            "title": "Savor crispy Banh xeo with wild greens atop Cam Mountain",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/en/vietnam-pushes-for-early-completion-of-trump-organization-s-1-5-billion-project-2382244.html",
+            "text": "",
+            "title": "Vietnam pushes for early completion of Trump Organization’s $1.5 billion project",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/song-dep",
+            "text": "Chuyện tử tế",
+            "title": "Chuyện tử tế",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/nguoi-dan-ong-o-gia-lai-duoc-doan-tu-gia-dinh-sau-5-ngay-di-lac-hon-200km-2380792.html",
+            "text": "",
+            "title": "Người đàn ông ở Gia Lai được đoàn tụ gia đình sau 5 ngày đi lạc hơn 200km",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://giamngheobenvung.vietnamnet.vn/doi-thay-tich-cuc-o-thon-ngheo-ba-khong-vung-cao-lao-cai-5021962.html",
+            "text": "",
+            "title": "Đổi thay tích cực ở thôn nghèo \"ba không\" vùng cao Lào Cai",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/dau-tu-thuc-chat-bao-dam-dieu-kien-song-sinh-ke-cho-dong-bao-dan-toc-thieu-so-2381702.html",
+            "text": "",
+            "title": "Đầu tư thực chất, bảo đảm điều kiện sống, sinh kế bền vững cho đồng bào dân tộc thiểu số",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/lien-ket-cung-phat-trien-doanh-nghiep-viet-noi-dia-hoa-tren-san-nha-2355904.html",
+            "text": "",
+            "title": "Liên kết cùng phát triển, doanh nghiệp Việt nội địa hóa trên sân nhà",
+            "base_domain": "vietnamnet.vn"
+        },
+        {
+            "href": "https://vietnamnet.vn/lai-chau-quyet-tam-day-lui-buon-lau-gian-lan-thuong-mai-va-hang-gia-2253354.html",
+            "text": "",
+            "title": "Lai Châu quyết tâm đẩy lùi buôn lậu, gian lận thương mại và hàng giả",
+            "base_domain": "vietnamnet.vn"
+        }
+    ],
+    "external": []
+}
