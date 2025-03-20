@@ -183,7 +183,7 @@ def create_scenario_craw(scenaio):
         new_history_scenario = history_scraped.insert_one(history.model_dump())
         data_craw = DetailContentCraw(
             historyScrapedId=str(new_history_scenario.inserted_id),
-            data=scrapedData
+            data=str(scrapedData)
         )
         detail_data_scraped.insert_one(data_craw.model_dump())
     return {"id": str(new_scenaio.inserted_id)}
