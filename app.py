@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from models.create_scenario_request import CreateScenarioRequest
 from modules.data_crawler import *
 from modules.craw_schedule import *
+from modules.crawl4ai_data import *
 import schedule
 import time
 import threading
@@ -22,9 +23,9 @@ app.add_middleware(
 
 # API: Cào dữ liệu từ URL
 @app.post("/crawl")
-def crawl_api(data: ScenarioCraw):
+async def crawl_api(data: ScenarioCraw):
     try:
-        result = crawl_data_by_html(data.url, data.content)
+        result = await crawl4ai_data_by_html(data.url, data.content)
         return {"status": "success", "data": result}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
